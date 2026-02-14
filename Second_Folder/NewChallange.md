@@ -1,2 +1,1 @@
 This is a new line of text added to the file.
-This is another line.
